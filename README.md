@@ -20,14 +20,14 @@ Client side has Product List page, Product Detail page, Login and Register pages
 
 - Client side has below features:
 
-..- Admin panel that allows CRUD operations for product, list of all orders and manage them.
-..- Users have permission to add item to basket and order them.
+.._ Admin panel that allows CRUD operations for product, list of all orders and manage them.
+.._ Users have permission to add item to basket and order them.
 
 **Packages that used in the project listed below:**
--React-Query
--Antd
--Chakra UI
--Moment
--React Image Gallery
--Formik
--Yuv
+.._ React-Query
+.._ Antd
+.._ Chakra UI
+.._ Moment
+.._ React Image Gallery
+.._ Formik
+..\* Yuv

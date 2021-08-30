@@ -1,6 +1,6 @@
 # E Commerce App
 
-<img src="https://i.imgur.com/R8RfMs6.gif" width="600"  />
+<img src="https://i.imgur.com/R8RfMs6.gif" width="900"  align="center"/>
 
 This project is an assignment for "React Patikası" @"Patika.dev".
 
@@ -18,16 +18,17 @@ Backend part of this project created by instructor @meseven.
 
 Client side has Product List page, Product Detail page, Login and Register pages and Basket page.
 
-- Client side has below features:
+**Client side has below features:**
 
-.._ Admin panel that allows CRUD operations for product, list of all orders and manage them.
-.._ Users have permission to add item to basket and order them.
+-Admin panel that allows CRUD operations for product, list of all orders and manage them.
+
+-Users have permission to add item to basket and order them.
 
 **Packages that used in the project listed below:**
-.._ React-Query
-.._ Antd
-.._ Chakra UI
-.._ Moment
-.._ React Image Gallery
-.._ Formik
-..\* Yuv
+- React-Query
+- Antd
+- Chakra UI
+- Moment
+- React Image Gallery
+- Formik
+- Yuv

@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/R8RfMs6.gif" width="600"  />
 
-This project is an assignment for "React Patikası" @"Patika.dev".cd
+This project is an assignment for "React Patikası" @"Patika.dev".
 
 ## Introduction
 
@@ -23,11 +23,11 @@ Client side has Product List page, Product Detail page, Login and Register pages
 ..- Admin panel that allows CRUD operations for product, list of all orders and manage them.
 ..- Users have permission to add item to basket and order them.
 
-- Packages that used in the project listed below:
-  ..-React-Query
-  ..-Antd
-  ..-Chakra UI
-  ..-Moment
-  ..-React Image Gallery
-  ..-Formik
-  ..-Yuv
+**Packages that used in the project listed below:**
+-React-Query
+-Antd
+-Chakra UI
+-Moment
+-React Image Gallery
+-Formik
+-Yuv
